@@ -25,8 +25,42 @@ I'm a Junior Software Engineer who enjoys building, learning, and exploring mode
 
 ## 🛠️ Languages & Tools
 
+### 🎨 Frontend Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,css,docker,figma,flutter,git,html,js,mysql,nginx,nodejs,php,postgres,python,qt,react,sqlite,tailwind,ts,vue" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" alt="Frontend Development" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python" alt="Backend Development" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="48" height="48" />
+</p>
+
+### 📱 Mobile & Desktop Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,qt" alt="Mobile and Desktop Development" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48" />
+</p>
+
+### 🚀 DevOps & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,nginx" alt="DevOps and Development Tools" />
+</p>
+
+### 🎨 Design Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design Tools" />
 </p>
 
 ---
@@ -44,4 +78,6 @@ I'm a Junior Software Engineer who enjoys building, learning, and exploring mode
 
 ---
 
-<p align="center">Thanks for visiting my profile ✨</p>
+<p align="center">
+  Thanks for visiting my profile ✨
+</p>
